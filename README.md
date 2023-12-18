@@ -1,2 +1,0 @@
-# leetclone
-Leet Code clone
